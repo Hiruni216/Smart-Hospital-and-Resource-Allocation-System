@@ -1,0 +1,17 @@
+==================================================
+Patient ID       : PAT-1001
+Patient Name     : hiruni
+Age              : 22
+Urgency Level    : 2
+Specialty ID     : 4
+Admitted         : 0
+Ward ID          : 0
+Days Admitted    : 0
+Base Fee         : LKR 5000.00
+Emergency Fee    : LKR 1000.00
+Ward Cost        : LKR 0.00
+Gross Total      : LKR 6000.00
+Discount         : LKR 0.00
+Final Payable    : LKR 6000.00
+==================================================
+
