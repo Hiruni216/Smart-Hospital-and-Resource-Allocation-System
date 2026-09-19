@@ -138,22 +138,6 @@ Technologies Used
 
 
 
-👨‍💻 Project Information
-
-
-
-Student: H.D.GALBADAARACHCHI
-
-Index: AS20250457
-
-Course: CSC 1012 – Introduction to Computer Programming
-
-
-
-GitHub Repository:
-
-https://github.com/Hiruni216/Smart-Hospital-and-Resource-Allocation-System.git
-
 
 
  Assumptions
