@@ -1,4 +1,4 @@
-🏥 Smart Hospital \& Resource Allocation System
+Smart Hospital \& Resource Allocation System
 
 
 
@@ -6,7 +6,7 @@ A modular C-based hospital management system designed to manage patients, medica
 
 
 
-🎯 Project Overview
+ Project Overview
 
 
 
@@ -14,31 +14,31 @@ The system provides a menu-driven solution for managing hospital resources and p
 
 
 
-✨ Key Features
+Key Features
 
 
 
-\- 👨‍⚕️ Specialty Management – View consultation fees, treatment times, and daily capacities.
+Specialty Management – View consultation fees, treatment times, and daily capacities.
 
-\- 🏥 Ward Management – View ward rates and available capacities.
+Ward Management – View ward rates and available capacities.
 
-\- 🛏️ Automatic Bed Allocation – Assigns the first available bed to admitted patients.
+Automatic Bed Allocation – Assigns the first available bed to admitted patients.
 
-\- 👤 Patient Registration – Stores patient details, urgency, specialty, admission status, and ward information.
+Patient Registration – Stores patient details, urgency, specialty, admission status, and ward information.
 
-\- 💰 Dynamic Billing – Calculates consultation fees, urgency surcharges, ward costs, discounts, and final payments.
+Dynamic Billing – Calculates consultation fees, urgency surcharges, ward costs, discounts, and final payments.
 
-\- ⏱️ Waiting-Time Calculation – Estimates waiting time based on the specialty queue.
+Waiting-Time Calculation – Estimates waiting time based on the specialty queue.
 
-\- 🚨 Priority Management – Sorts patients according to urgency while preserving registration order.
+Priority Management – Sorts patients according to urgency while preserving registration order.
 
-\- 📊 Performance Reports – Generates patient statistics, revenue, discounts, and bed occupancy information.
+Performance Reports – Generates patient statistics, revenue, discounts, and bed occupancy information.
 
-\- 💾 File Persistence – Saves bed occupancy and patient billing records to text files.
+File Persistence – Saves bed occupancy and patient billing records to text files.
 
 
 
-🏗️ System Architecture
+System Architecture
 
 
 
@@ -72,7 +72,7 @@ The project follows a modular architecture, where each major responsibility is s
 
 
 
-🧮 Core Calculations
+Core Calculations
 
 
 
@@ -94,7 +94,7 @@ The system implements:
 
 
 
-🛠️ Technologies Used
+Technologies Used
 
 
 
@@ -110,7 +110,7 @@ The system implements:
 
 
 
-📋 Main Menu
+ Main Menu
 
 
 
@@ -156,7 +156,7 @@ https://github.com/Hiruni216/Smart-Hospital-and-Resource-Allocation-System.git
 
 
 
-📌 Assumptions
+ Assumptions
 
 
 
